@@ -1,6 +1,6 @@
 # Snappy
 
-In computer systems, a snapshot is the state of a system at a particular point in time. Snappy is a command line tool for linux file system that supports snapshot management. It provides user various functionalities to create,delete and manage the snapshots of the directories.
+In computer systems, a snapshot is the state of a system at a particular point in time. Snappy is a command line tool for linux file systems that supports snapshot management. It provides user various functionalities to create,delete and manage the snapshots of the directories.
 For more information refer : Report. 
 - - - -
 ## Installation
